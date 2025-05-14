@@ -20,15 +20,9 @@ This project uses Python for implementation and the following libraries:
 - `matplotlib`, `pandas`: Data visualization and manipulation
 - `scikit-learn`: Machine learning algorithms
 
-## 📁 Project Structure
-ecg-arrhythmia-detection/
-├── data/ # Raw and processed ECG data
-├── notebooks/ # Jupyter notebooks for each analysis phase
-├── docs/ # Documentation (project reports, API docs, references)
-├── results/ # Output figures, reports, and logs
-├── requirements.txt # Python dependencies
-├── README.md # Project overview and instructions
-└── LICENSE # (Optional) Licensing information
+
+<pre> ## 📁 Project Structure ```text ecg-arrhythmia-detection/ ├── data/ # Raw and processed ECG data ├── notebooks/ # Jupyter notebooks for each analysis phase ├── docs/ # Documentation (project reports, API docs, references) ├── results/ # Output figures, reports, and logs ├── requirements.txt # Python dependencies ├── README.md # Project overview and instructions └── LICENSE # (Optional) Licensing information ``` </pre>
+This will render in markdown as:
 
 ## 🔬 Project Phases
 
