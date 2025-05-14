@@ -21,7 +21,16 @@ This project uses Python for implementation and the following libraries:
 - `scikit-learn`: Machine learning algorithms
 
 
-<pre> ## 📁 Project Structure ``` ecg-arrhythmia-detection/ ├── data/ # Raw and processed ECG data ├── notebooks/ # Jupyter notebooks for each analysis phase ├── docs/ # Documentation (project reports, API docs, references) ├── results/ # Output figures, reports, and logs ├── requirements.txt # Python dependencies ├── README.md # Project overview and instructions └── LICENSE # (Optional) Licensing information ``` </pre>
+## 📁 Project Structure 
+
+ecg-arrhythmia-detection/
+├── data/ # Raw and processed ECG data
+├── notebooks/ # Jupyter notebooks for each analysis phase
+├── docs/ # Documentation (project reports, API docs, references)
+├── results/ # Output figures, reports, and logs 
+├── requirements.txt # Python dependencies 
+├── README.md # Project overview and instructions 
+
 ## 🔬 Project Phases
 
 1. **Dataset Exploration and Visualization**  
